@@ -14,8 +14,8 @@
         style="@style/CountryButtons"
         android:text="@string/usa_country_name"
         android:id="@+id/Usa_button"
-        android:background="@drawable/usa_flag"
-        android:focusableInTouchMode="false"
+        android:background="@drawable/usa_banner"
+
         />
     <Button
         style="@style/CountryButtons"
