@@ -16,10 +16,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".AusActivity"
-            android:label="@string/aus_country_name"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".UsaActivity"></activity>
+            android:name=".AusActivity"/>
+        <activity
+            android:name=".UsaActivity"/>
     </application>
 
 </manifest>
