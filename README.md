@@ -27,3 +27,8 @@ The country activity layout is a ScrollView with nested linear and relative layo
 SCREENSHOTS of app and APK files can be found here: https://drive.google.com/open?id=0B88A4msSNNqZNUE3Q25oRUxVcnc
 
 For the project source code, see this Github.
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+Sources: Images were all from the public domain and facts were from Wikipedia's page on Refugees of the Syrian Civil War (accessed 4/6/2016) https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War
