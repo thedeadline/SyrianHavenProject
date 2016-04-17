@@ -9,9 +9,13 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity{
+/**
+ * The type Main activity.
+ */
+public class MainActivity extends AppCompatActivity {
     //Define views
     private Button AusButton, UsaButton, CdnButton, DeuButton, NorButton;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
