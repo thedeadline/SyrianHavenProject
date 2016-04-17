@@ -7,9 +7,14 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:paddingBottom="16dp"
         android:orientation="vertical">
-        <TextView
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp">
+
+            <TextView
             android:layout_width="match_parent"
             android:layout_height="150dp"
             android:text="@string/usa_country_name"
@@ -19,24 +24,20 @@
             android:paddingLeft="30dp"
             android:textSize="40dp"
             android:id="@+id/bannerView"/>
-        <RelativeLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp">
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Accepting"
                 android:id="@+id/acceptingView"
                 android:textSize="20dp"
-                android:layout_alignParentTop="true"/>
+                android:layout_below="@id/bannerView"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="10,000"
                 android:id="@+id/acceptingNumView"
-                android:layout_alignParentTop="true"
+                android:layout_below="@id/bannerView"
                 android:layout_alignParentRight="true"
                 android:textSize="20dp"/>
             <TextView
@@ -79,19 +80,46 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="calculateHearts"
                 android:id="@+id/friendlinessNumView"
+                android:text="♥"
                 android:layout_alignParentRight="true"
                 android:layout_below="@id/finAidNumView"
-                android:textSize="20dp" />
+                android:textSize="20dp"
+                android:textColor="#B71C1C" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/unfriendlinessNumView"
+                android:text="♥♥♥♥"
+                android:textSize="20dp"
+                android:layout_alignParentBottom="true"
+                android:layout_toLeftOf="@+id/friendlinessNumView"
+                android:textColor="#ffa7a7" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/starTextView"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:textColor="#FFC107"
+                android:textSize="30sp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="16dp"
+                android:password="false" />
+
         </RelativeLayout>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:text="@string/usa_text"
             android:layout_marginLeft="16dp"
-            android:layout_marginRight="16dp"
-            android:layout_below="@id/bannerView"/>
-
+            android:layout_marginRight="16dp"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/starButton"
+            android:onClick="toggleStar"/>
     </LinearLayout>
 </ScrollView>

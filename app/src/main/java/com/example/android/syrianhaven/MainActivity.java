@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -28,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
                 //Start next activity
                 Intent intent = new Intent(MainActivity.this, AusActivity.class);
                 startActivity(intent);
-
             }
         });
         UsaButton.setOnClickListener(new View.OnClickListener() {
@@ -36,10 +36,10 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 //Start next activity
                 Intent intent = new Intent(MainActivity.this, UsaActivity.class);
-                startActivity(intent);
 
+                startActivity(intent);
             }
         });
-
     }
+
 }
