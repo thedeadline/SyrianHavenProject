@@ -23,7 +23,9 @@
         <item name ="android:layout_weight">1</item>
         <item name ="android:textSize">48sp</item>
         <item name ="android:textColor">#ffffff</item>
-        <item name ="android:layout_margin">8dp</item>
+        <item name ="android:layout_marginLeft">8dp</item>
+        <item name ="android:layout_marginRight">8dp</item>
+        <item name ="android:layout_marginTop">8dp</item>
     </style>
 
 </resources>
