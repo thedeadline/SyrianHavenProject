@@ -1,8 +1,5 @@
 <resources>
 
-    <string name="star">Star</string>
-    <string name="unstar">Unstar</string>
-
     <string name="app_name">Syrian Haven</string>
     <string name="usa_country_name">America</string>
     <string name="aus_country_name">Australia</string>
