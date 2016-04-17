@@ -7,7 +7,7 @@ Target sdk is 23 (Android 6.0 Marshmallow) and minimum sdk is 15 (Android 4.0.3 
 -----------------------------------------------------------------------------------------------------------------------
 
 TO RUN:
-Download APK zip from Github or Google Drive folder below and install on your Android device. You might need to modify your Android’s settings to allow the installation of applications from other sources. Under “Settings,” select “Application Settings” and then enable “Unknown Sources.” 
+Download APK files from Github or Google Drive folder below and install on your Android device. You might need to modify your Android’s settings to allow the installation of applications from other sources. Under “Settings,” select “Application Settings” and then enable “Unknown Sources.” 
 
 -----------------------------------------------------------------------------------------------------------------------
 
