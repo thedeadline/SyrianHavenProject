@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Syrian Haven</string>
+    <string name="usa_country_name">America</string>
+    <string name="aus_country_name">Australia</string>
+    <string name="deu_country_name">Germany</string>
+    <string name="cdn_country_name">Canada</string>
+    <string name="nor_country_name">Norway</string>
+    <string name="usa_text">
+        As of February 2016, the country had resettled 3,097 Syrians (up from 90 in 2013). Following
+        the November 2015 Paris attacks, at least 27 state governors declared their refusal to accept
+        refugees, or questioned the vetting process. The US State Department has
+        affirmed that the country will accept 10,000 Syrian refugees in 2016. The USA has
+        provided $4.5 billion to aid Syrian refugees as of late December 2015.
+    </string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n
+        "Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n
+        "Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n
+        "Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n
+        "Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"Material is the metaphor.\n\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n
+
+
+
+
+
+
+        "
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
