@@ -1,6 +1,10 @@
 <resources>
-
     <string name="app_name">Syrian Haven</string>
+
+    <string name="accepting">Accepting</string>
+    <string name="resettled">Resettled</string>
+    <string name="aid">Financial Aid</string>
+
     <string name="usa_country_name">America</string>
     <string name="aus_country_name">Australia</string>
     <string name="cdn_country_name">Canada</string>
@@ -78,5 +82,4 @@
         Norway has announced it will accept 8,000 refugees from Syria under the UN quota
         system by the end of 2017
     </string>
-    <string name="action_settings">Settings</string>
 </resources>
