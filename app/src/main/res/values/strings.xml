@@ -1,4 +1,8 @@
 <resources>
+
+    <string name="star">Star</string>
+    <string name="unstar">Unstar</string>
+
     <string name="app_name">Syrian Haven</string>
     <string name="usa_country_name">America</string>
     <string name="aus_country_name">Australia</string>
@@ -6,23 +10,23 @@
     <string name="deu_country_name">Germany</string>
     <string name="nor_country_name">Norway</string>
 
-    <string name="usa_accepting_num">America</string>
-    <string name="aus_accepting_num">A Australia</string>
-    <string name="cdn_accepting_num">A Canada</string>
-    <string name="deu_accepting_num">A Germany</string>
-    <string name="nor_accepting_num">A Norway</string>
+    <string name="usa_accepting_num">10,000</string>
+    <string name="aus_accepting_num">12,000</string>
+    <string name="cdn_accepting_num">45,000</string>
+    <string name="deu_accepting_num">no limit</string>
+    <string name="nor_accepting_num">8,000</string>
 
-    <string name="usa_resettled_num">R usa</string>
-    <string name="aus_resettled_num">R Australia</string>
-    <string name="cdn_resettled_num">R Canada</string>
-    <string name="deu_resettled_num">R Germany</string>
-    <string name="nor_resettled_num">R Norway</string>
+    <string name="usa_resettled_num">3,097</string>
+    <string name="aus_resettled_num">26</string>
+    <string name="cdn_resettled_num">26,262</string>
+    <string name="deu_resettled_num">484,000</string>
+    <string name="nor_resettled_num">11,246</string>
 
-    <string name="usa_aid_num">Ai America</string>
-    <string name="aus_aid_num">Ai Australia</string>
-    <string name="cdn_aid_num">Ai Canada</string>
-    <string name="deu_aid_num">Ai Germany</string>
-    <string name="nor_aid_num">Ai Norway</string>
+    <string name="usa_aid_num">$4.5 billion</string>
+    <string name="aus_aid_num">$177 million</string>
+    <string name="cdn_aid_num">$970 million</string>
+    <string name="deu_aid_num">$3.15 billion</string>
+    <string name="nor_aid_num">$356 million</string>
 
     <string name="usa_text">
         As of February 2016, the country had resettled 3,097 Syrians (up from 90 in 2013). Following
@@ -34,6 +38,66 @@
     <string name="aus_text">
         In October 2015, Australia announced that it would accept 12,000 Syrian refugees. By
         February 2016, Australia had settled 26 refugees.
+    </string>
+        <string name="cdn_text">
+            In July 2013, Canada promised to resettle 1,300 refugees by 2015 and pledged $100
+            million in humanitarian aid. "No more than 10 [refugees had] arrived in Canada."
+            by March 2014, and under public scrutiny leading into a national general election,
+            the government agreed to resettle 11,300 refugees by the end of 2017, and then
+            10,000 by September 2016. Following the 2015 general election, the newly elected
+            government committed to bringing 25,000 refugees by the end of 2015. This
+            deadline was moved to February 2016 to ensure thorough screening in the aftermath of the 2015 Paris Attacks. Canadians have expressed considerable interest in receiving refugees and Prime Minister Justin Trudeau met the first two flights on Dec 10 and Dec 13, 2015. To date Canada has arranged 96 flights to airlift refugees from their host countries, welcomed 25,000 refugees into 269 communities across the country, and agreed to resettle 35-50,000 refugees by the end of 2016.[167] Resettlement arrangements for additional refugees and social integration of arriving refugees is ongoing The cost over the next six years is estimated at (CDN) $564-million and $678-million.[168] The Prime Minister stated that the most vulnerable would be accepted first, including families, children and members of the LGBT communities Among the Syrian refugees accepted for resettlement are thousands of ethnic Armenians. On February 27, 2016 Canadian government declared that it had met its goal of resettling 25,000 Syrian refugees in Canada.
+    </string>
+        <string name="deu_text">
+            In 2013, Germany received 11,851 asylum requests by Syrians, in 2014 the number more
+            than tripled to 39,332. The German Federal Minister of the Interior estimated in
+            March 2015, that some 105,000 Syrian refugees have been accepted by Germany. By
+            June 2015, 161,435 Syrians resided in Germany, of which 136,835 had entered after
+            January 2011.After suspending the Dublin rules for Syrian refugees, the numbers
+            increased to the point of stressing Germany's infrastructure and logistic capabilities.
+            From January to July 2015, the Bundesamt for Migration and Flüchtlinge (Federal office
+            for migration and refugees) received 42,100 requests for asylum. By the end 2015,
+            the figure had reached 158,657. 96% of the asylum requests were approved. It is
+            estimated that 300,000 Syrian refugees are in the country. German Chancellor Angela
+            Merkel has said that "The fundamental right to asylum for the politically persecuted
+            knows no upper limit; that also goes for refugees who come to us from the hell of a
+            civil war." German Chancellor Angela Merkel decided to let all Syrians enter the
+            country but had to stop train travel to/from Austria to control the numbers arriving.
+            At Munich's main railway station, thousands of Germans applauded Syrians as they
+            arrived in September.The German police force announced on 22 October 2015 that
+            they had prevented a planned attack on a refugee home in Bamberg by a right wing
+            extremist group. They also said there had been nearly 600 attacks on refugee homes in
+            2015, a sharp rise from 2014. As well, 19-39,000 (depending on estimates) of
+            members of the German right wing Pegida movement rallied on 19 October 2015 in Dresden
+            against accepting refugees. Some 14-20,000 other individuals held a counter rally in
+            the town. On New Year's morning 2016, a group of about a thousand male migrants
+            of North African or Arab descent sexually assaulted 600 females in Cologne. Angela
+            Merkel's openness towards refugees was criticized and 61% of individuals in an INSA
+            poll reported they were less happy about accepting refugees after the assaults.
+            German feminist Alice Schwarzer said that the policy is causing Germany to have
+            open doors for male violence, sexism, and antisemitism.
+            Greece – Greece welcomes refugees when in transit to Germany to apply for
+            refugee status. \n\n
+            In 2015, there were 385,525 arrivals by sea. It is estimated that only
+            8% of arrivals (31,000 Syrian refugees) applied for asylum in Greece,
+            as most are in transit further into Europe. 15,000-17,000 refugees had landed
+            on Lesbos island by September 2015, overwhelming the resources and generosity
+            of local residents. Many refuges also make landfall at Agathonisi,
+            Farmakonisi, Kos, Lemnos, Rhodes, Chios, Samos, Kastellorizo and other islands
+            near Turkey. Some arrive via the Evros border crossing from Turkey. On 19
+            February 2016 Austria imposed restrictions on the number of refugees entering
+            the country followed by Slovenia, Croatia, Serbia and the Republic of
+            Macedonia, of just 580 arrivals a day. As a result, large numbers of Syrian
+            refugees and migrants from other countries are stuck in Greece. On 22
+            February 2016 at an emergency summit on the migrant crisis in Brussels it was
+            agreed that another 100,000 spaces in refugee reception centres will be
+            created. 50,000 spaces in Greece and another 50,000 spaces in Balkan
+            countries.Given that 2 – 3,000 migrants arrive in Greece every day,
+            these 100,000 spaces look inadequate.
+        </string>
+    <string name="nor_text">
+        Norway has announced it will accept 8,000 refugees from Syria under the UN quota
+        system by the end of 2017
     </string>
     <string name="action_settings">Settings</string>
 </resources>
