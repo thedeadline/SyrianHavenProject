@@ -10,6 +10,7 @@ public class UsaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_usa);
+        calculateHearts(5);
     }
 
     /**
@@ -18,7 +19,7 @@ public class UsaActivity extends AppCompatActivity {
      */
     private void calculateHearts(int friendlylevel) {
         if (friendlylevel == 5) {
-            displayHearts("♥ ♥ ♥ ♥ ♥");
+            displayHearts("♥");
         }
     }
     public void displayHearts(String message){
