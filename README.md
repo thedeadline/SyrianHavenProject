@@ -1,7 +1,8 @@
 # SyrianHaven
 
 JRE: 1.6.0_65-b14-466.1-11M4716 x86_64
-Built in Android Studio 1.5.1 on Mac and mainly tested on Nexus 6P. Works for API 15 (Android 4.0.3) and later, but works best on API 23 (Android 6.0).
+Built in Android Studio 1.5.1 on Mac and mainly tested on Nexus 6P.
+Target sdk is 23 (Android 6.0 Marshmallow) and minimum sdk is 15 (Android 4.0.3 KitKat).
 
 -----------------------------------------------------------------------------------------------------------------------
 
